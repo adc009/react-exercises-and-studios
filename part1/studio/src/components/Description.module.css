@@ -1,0 +1,12 @@
+.recipeAuthorBlock {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    background-color: gray;
+    }
+    
+    .imageUpdates {
+       object-fit: contain;
+       max-width: 35%;
+       max-height: 35%;
+    }
